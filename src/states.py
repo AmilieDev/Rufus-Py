@@ -1,4 +1,5 @@
 ##### THIS FILE HOLDS ALL THE STATES OF THE OPTION CHOSEN BY THE USER #####
+# States are global for future use across the entire program. Please do not move
 
 currentFS = 0
 image_option = 0
